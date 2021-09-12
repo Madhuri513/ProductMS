@@ -9,7 +9,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Product-Microservice</name>
+	<name>ProductMS</name>
 	<description>InfyMarket Product Microservice</description>
 
 	<parent>
@@ -22,7 +22,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>16</java.version>
+		<java.version>8</java.version>
 		<sonar.projectKey>Madhuri513_ProductManager
 </sonar.projectKey>
 <sonar.organization>madhuri</sonar.organization>
